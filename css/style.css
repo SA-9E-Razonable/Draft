@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #405d4c !important;
-	background-image: url('/img/green.jpg') !important;
+	background-image: url('./img/green.jpg') !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow-x: hidden;
