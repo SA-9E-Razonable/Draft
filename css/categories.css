@@ -1,0 +1,55 @@
+body{
+background-image: url('green.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+overflow-x: hidden;
+margin: 0;  
+padding: 0; 
+}
+
+#trademark{
+height:60px;
+}
+
+#home{
+color:white;
+margin-right:75px;
+margin-top:5px;
+}
+
+
+#categories{
+color:white;
+margin-right:75px;
+margin-top:5px;
+}
+
+
+#about{
+color:white;
+margin-right:75px;
+margin-top:5px;
+}
+
+#submit{
+color:white;
+margin-right:75px;
+margin-top:5px;
+}
+
+#logout{
+color:white;
+margin-right:40px;
+margin-top:5px;
+}
+
+#line{
+height:45px;
+margin-top:5px;
+}
+
+@media (max-width: 992px) {
+#line {
+display: none;
+   }
+}
